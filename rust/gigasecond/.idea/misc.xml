@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RustProjectSettings">
+    <option name="explicitPathToStdlib" value="/usr/local/lib/rustlib" />
+    <option name="toolchainHomeDirectory" value="/usr/local/bin" />
+    <option name="useCargoCheckForBuild" value="true" />
+  </component>
+</project>
