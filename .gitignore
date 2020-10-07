@@ -136,3 +136,5 @@ gen
 
 # Exercism metadata
 .exercism
+
+*gradle*
